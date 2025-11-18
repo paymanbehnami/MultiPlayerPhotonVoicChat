@@ -1,0 +1,29 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Aa]ssets/[Ss]amples/
+/[Ss]amples/
+/[Aa]ssets/Gizmos/
+# This ensures package cache isn't committed and also helps with the long path issue
+/[Pp]ackage[Cc]ache/
+# Unity Generated Files
+Logs/
+UserSettings/
+# Visual Studio files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS generated files
+.DS_Store
+Thumbs.db
